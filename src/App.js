@@ -22,7 +22,7 @@ const App =() => {
         setWeather(data);
     
     } catch {
-        alert("Veri Alınırken Hata Oluştu.")
+        alert("Veri Alınırken Hata Oluştu2.")
     }
     };
 
